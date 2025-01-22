@@ -1,0 +1,201 @@
+customer_id,name,gender,age,Occupation,IncomeLevel,City
+1,Monica Crawford,Female,22,"Exhibitions officer, museum/gallery",Low,East Ruth
+2,Patricia Webb,Female,60,"Merchandiser, retail",Low,North Alisonbury
+3,Denise Dorsey,Male,22,Toxicologist,Low,Ericberg
+4,Dominic Caldwell,Female,31,Patent attorney,Low,East Randall
+5,Julie Braun,Male,55,Education administrator,High,Ruizmouth
+6,Lauren Reynolds,Female,32,Visual merchandiser,Medium,Porterland
+7,Gina Martin,Female,28,Archaeologist,Low,East Michelleville
+8,John Anderson,Female,49,Hydrologist,Low,North Michealfurt
+9,Jamie Lewis,Male,33,"Administrator, Civil Service",Low,Anthonyside
+10,Zachary Ross DVM,Female,25,Civil Service fast streamer,Medium,Laurashire
+11,Emily Schmidt,Female,26,Systems analyst,Low,West Sarah
+12,Lauren Meadows,Male,38,Politician's assistant,High,Lake Brian
+13,Heather Lang,Male,40,Environmental health practitioner,High,Mackenzieton
+14,Seth Cook,Female,65,Animal technologist,High,Hodgesview
+15,Nathan Ramos,Female,49,Mental health nurse,Medium,New John
+16,Holly Taylor,Female,53,Music therapist,Low,South Brandon
+17,Kristina Carey,Female,56,Hydrogeologist,Low,Jamesland
+18,Jason Armstrong,Male,22,Theme park manager,Medium,Thorntonside
+19,Jake Williams,Male,27,"Teacher, music",Low,Alanshire
+20,Daisy Blanchard,Male,28,Manufacturing engineer,Low,East Kimberlybury
+21,Kristen Alexander,Male,51,"Nurse, children's",Low,Port Anthony
+22,Peter King,Male,32,"Engineer, manufacturing systems",Low,Kingfort
+23,Mr. David Wagner,Female,51,Academic librarian,High,Marymouth
+24,Geoffrey Colon,Female,24,Pension scheme manager,Low,South Ericfort
+25,Daniel Lee,Male,51,Energy engineer,High,Anthonyside
+26,Jack Davis,Male,59,Geophysical data processor,Low,Jasonshire
+27,Reginald Woodard,Male,59,Counsellor,High,Nicholaston
+28,Stephanie Hamilton,Male,55,Sales promotion account executive,Medium,East Mackenzie
+29,Jennifer Frey,Male,26,"Designer, ceramics/pottery",High,West Lynnville
+30,Michael Tate,Male,46,Operational investment banker,High,Nelsonbury
+31,Holly Drake,Male,22,Building surveyor,Low,Donaldhaven
+32,Jeremy Casey,Female,22,"Production designer, theatre/television/film",Low,East Davidberg
+33,Clifford Woods,Female,37,Insurance claims handler,High,Meganfurt
+34,Anita Reynolds,Male,39,Automotive engineer,High,West Dakota
+35,Melissa Patton,Female,30,Nutritional therapist,Low,Sheltonland
+36,Ann Hill,Male,35,Advertising copywriter,Low,Franciscoview
+37,Vicki Koch,Male,58,"Psychologist, clinical",Low,Thomasport
+38,Adam Potter,Female,43,Amenity horticulturist,Low,North Terrence
+39,Roy Moore,Male,43,Transport planner,High,Reeseside
+40,Phillip Burns,Male,29,"Designer, multimedia",High,Lake Vickihaven
+41,Ashley Larson,Female,49,Fish farm manager,High,Port Christina
+42,Lauren Allen,Female,34,Tourist information centre manager,Medium,Robinsonhaven
+43,Kimberly Lewis,Male,20,Actuary,High,West Samanthaberg
+44,William Mueller,Male,45,Audiological scientist,Medium,Port Carloshaven
+45,Henry Lee,Female,22,Magazine journalist,Medium,Port Christine
+46,Shannon Smith,Female,24,"Teacher, early years/pre",Medium,Shannonchester
+47,Brandi Lara,Female,41,Research scientist (maths),Low,New Dannyside
+48,Erin Solis,Female,55,Press sub,Low,Charleshaven
+49,Albert Porter,Female,52,"Programmer, multimedia",Medium,North Madisonmouth
+50,Stephanie Gray,Male,54,"Designer, blown glass/stained glass",Medium,Lake Brianport
+51,Derrick Walton,Male,57,Occupational therapist,Medium,Ronaldbury
+52,Tanya Li,Male,25,Administrator,Medium,Nicholsbury
+53,Joseph Wise,Male,57,Transport planner,High,East Valerie
+54,Michael Barnes,Male,42,Risk analyst,Low,New Feliciabury
+55,Brian Garcia,Female,22,"Surveyor, building control",Low,South Daniel
+56,Charles Maxwell,Female,37,Chartered public finance accountant,High,Brendafort
+57,Amy Aguilar,Male,46,English as a foreign language teacher,Medium,Bookerville
+58,Anita Thomas,Female,43,Personal assistant,High,Jerrytown
+59,Michael Johnson,Male,34,Facilities manager,High,Mitchellland
+60,Vickie Molina,Male,47,"Teacher, special educational needs",High,East Regina
+61,Ralph Jones,Female,61,"Investment banker, operational",Medium,Kramerberg
+62,Dr. Corey Martinez III,Male,27,Health visitor,Low,Whitneymouth
+63,Laura Wilson,Male,63,Higher education careers adviser,High,Lake Nataliemouth
+64,Jodi Mitchell,Male,50,Sport and exercise psychologist,High,Lake William
+65,Lorraine Jackson,Female,52,Planning and development surveyor,Medium,South Alvin
+66,Brenda Evans,Male,27,Advertising art director,High,Lake Sarah
+67,Victor Wong,Female,36,Landscape architect,Low,Michaelburgh
+68,Samantha Richardson,Female,32,Quality manager,Medium,Chrismouth
+69,Meghan Smith,Female,39,Forest/woodland manager,Low,Randallstad
+70,Lori Brown,Female,23,Medical illustrator,Medium,South Jeffrey
+71,Heather Shea,Female,63,Newspaper journalist,Low,Brownland
+72,Denise Castro,Female,47,Colour technologist,Medium,Port Jacquelineville
+73,Amy Molina,Female,31,Administrator,Low,Scottstad
+74,Samuel Chapman,Female,24,"Surveyor, land/geomatics",Low,West Darlenechester
+75,Jennifer Oneill,Male,23,English as a second language teacher,Low,South Joyfort
+76,Jennifer Richardson,Female,53,Accounting technician,High,New Desiree
+77,Laura Smith,Male,58,Insurance claims handler,Medium,Judyview
+78,Gina Hensley,Female,42,Proofreader,Medium,Cookton
+79,Wayne Wade,Male,49,"Geneticist, molecular",High,East Danielchester
+80,Lisa Medina,Male,38,"Radiographer, therapeutic",High,Melendezside
+81,Brandi Williams,Male,59,Farm manager,Medium,Hooperland
+82,Patrick Clark,Male,46,Research scientist (life sciences),Medium,South Sherylborough
+83,Daisy Preston,Male,19,Theatre director,Low,Anthonyland
+84,Heather Chan,Female,18,Clinical research associate,Low,Lake Coreychester
+85,Christopher Mccormick,Female,29,Tour manager,High,Johnland
+86,Christina Rasmussen,Female,47,Financial planner,Low,Kevinfurt
+87,Kimberly Bennett,Male,61,Trade mark attorney,Medium,Lake Robertshire
+88,Lauren Clark,Female,20,Sub,Low,Kingview
+89,Andre Williams,Female,46,IT consultant,Low,New Richard
+90,Emily Rodriguez,Female,49,Chemical engineer,Medium,Julieberg
+91,Carol Jackson,Female,35,Clinical biochemist,Medium,Lake Sarahside
+92,Sonya Moore,Male,35,Consulting civil engineer,Low,Leonville
+93,Cody Hardy,Male,63,Scientific laboratory technician,Low,North Jonborough
+94,Sarah Nguyen,Male,43,Hydrogeologist,Medium,Lake Robert
+95,Crystal Keith,Female,46,Operational investment banker,Low,New Johntown
+96,Michael Dudley,Male,64,Interior and spatial designer,Medium,Dianefurt
+97,Anthony Holland MD,Female,49,Physiotherapist,Medium,East Cynthia
+98,Katherine Atkins,Male,26,Event organiser,High,New Renee
+99,Mallory Patton,Female,27,Surgeon,Medium,Richardport
+100,Nicole Sheppard,Female,43,Astronomer,Low,Shafferberg
+101,Joshua Smith,Female,36,Sales executive,High,North Lauraview
+102,Jennifer Villarreal,Male,33,Comptroller,Medium,Nelsonview
+103,Mark Horton,Male,52,Actor,Low,Michaelfort
+104,Scott Williams,Female,41,Rural practice surveyor,Medium,South Michaelville
+105,Anthony Miller,Female,40,"Engineer, site",High,Whiteberg
+106,Laurie Hamilton,Female,44,Soil scientist,Medium,Pagetown
+107,Patricia Garcia,Female,46,"Geneticist, molecular",Low,Lake Carolyn
+108,Alfred Farley,Female,34,"Psychotherapist, child",High,East Dustin
+109,Laura Thomas DDS,Male,20,Bonds trader,Medium,East Dwayne
+110,Joseph Mitchell,Female,26,Music tutor,Low,Codyton
+111,Mrs. Madeline Kelley,Male,60,"Buyer, industrial",Low,North Stephen
+112,John Clements,Female,43,Charity fundraiser,High,Port Paula
+113,Russell Cooper,Male,22,Hospital pharmacist,Medium,South Marisa
+114,Kathy Sutton,Male,34,"Therapist, music",Medium,Franktown
+115,Kyle Bishop,Male,47,Medical technical officer,Medium,Onealburgh
+116,Isabella Klein,Female,49,Seismic interpreter,Low,East Breannahaven
+117,Cindy Mccullough,Female,64,Analytical chemist,Medium,East Paul
+118,Curtis Smith MD,Male,59,Warden/ranger,High,New Jessica
+119,Kathryn Molina,Female,39,Health service manager,Medium,Jessicaton
+120,Charles Gonzalez,Female,61,Bonds trader,Medium,New Kelly
+121,Brian Ross,Female,40,Advice worker,Low,Hammondfort
+122,Elizabeth Sharp,Male,56,"Designer, blown glass/stained glass",High,Tomside
+123,Tammy Garcia DDS,Male,31,Financial risk analyst,Low,Lake Brian
+124,Fernando Wright,Female,60,"Scientist, research (physical sciences)",Medium,Seanhaven
+125,Christopher Smith,Female,55,Armed forces logistics/support/administrative officer,Low,North Conniebury
+126,Mrs. Patricia Moss DVM,Female,25,Mining engineer,High,Johnsonmouth
+127,Stephen Welch,Male,52,Games developer,Low,New Margaretshire
+128,Antonio Holmes,Female,46,Broadcast journalist,Medium,Jessicaview
+129,Jeffery Carney,Female,30,Nutritional therapist,High,New Wendyside
+130,William Lin,Male,41,Chartered management accountant,Low,West Marymouth
+131,Casey Crane,Male,47,Film/video editor,High,Millerton
+132,Noah Ashley,Female,26,Acupuncturist,High,Lake Ryanfurt
+133,Kenneth King,Female,47,Press sub,Low,Mckinneyport
+134,Jordan Hernandez,Female,54,Television floor manager,High,East Scott
+135,Lori Anderson,Male,63,Call centre manager,High,Lake Melissatown
+136,Miss Jennifer Gonzalez,Male,41,Financial controller,Medium,East Trevor
+137,Katherine Wright,Male,33,"Engineer, production",High,Brandtchester
+138,Alan Ramirez,Male,49,Solicitor,High,Lake Anthonyville
+139,Karen Greene,Male,65,Systems developer,Low,New Karen
+140,Mark Banks,Female,46,Air traffic controller,Low,Schneiderfurt
+141,Kenneth Miller,Male,45,Estate manager/land agent,Low,Joannaview
+142,Alicia Jones,Female,35,Land,Low,Bradleyland
+143,Amy Diaz,Male,60,Legal executive,High,East Scottbury
+144,Trevor Buchanan,Male,46,"Surveyor, planning and development",Medium,Stephanieport
+145,Nicole Wilson,Female,53,"Librarian, public",Low,East Ashley
+146,Debra Ruiz,Male,22,Production manager,High,North Rachel
+147,Seth Gonzalez,Male,27,"Producer, television/film/video",Medium,New Sherrimouth
+148,David Lowe,Male,29,"Pharmacist, hospital",Medium,Port Carlfurt
+149,David Hardin,Female,19,"Conservator, museum/gallery",High,North Tyroneside
+150,Richard Salinas,Female,54,Veterinary surgeon,Medium,West Johnmouth
+151,Sandra Rosales,Male,38,"Engineer, building services",Medium,Bridgesfurt
+152,Gary Stanton,Female,61,Veterinary surgeon,High,Katherinefurt
+153,Devon Gutierrez,Male,60,Engineering geologist,High,Erikshire
+154,Tammy Cox,Female,61,Medical secretary,Low,South Guyview
+155,Tonya Hernandez,Female,49,"Psychologist, prison and probation services",Low,Davetown
+156,Rachel Ruiz,Female,21,Medical secretary,Low,Christineport
+157,Samantha Mayo,Female,21,Press sub,Medium,Krauseland
+158,Mark Turner,Male,63,Airline pilot,High,Whiteborough
+159,Karl Carpenter,Female,52,Fish farm manager,Medium,East Maureen
+160,Patricia Burton,Female,63,Oncologist,Medium,Robertberg
+161,Barbara Chung,Male,25,Seismic interpreter,Medium,Port Bryanview
+162,Mikayla Lee,Male,20,Production engineer,Medium,Bergville
+163,Matthew Malone,Male,25,Translator,Low,Thomasmouth
+164,Mr. William Jones,Male,22,Dramatherapist,Medium,Port Haleymouth
+165,Daniel Larson,Male,62,"Nurse, children's",Medium,Wolfstad
+166,Brian Cain,Female,42,"Therapist, nutritional",High,Brownview
+167,Amanda Fisher,Female,18,Psychiatric nurse,Medium,Brianachester
+168,Larry Shea,Male,52,Regulatory affairs officer,High,Stevensonbury
+169,Antonio Gonzalez,Female,28,"Psychotherapist, dance movement",Low,Lake Laurentown
+170,Justin Young,Female,48,"Research officer, political party",High,Leeland
+171,Lori Jones,Female,41,Health service manager,Medium,Geraldborough
+172,Paul King,Male,62,Operational investment banker,Medium,Lake Scott
+173,Michael Myers,Female,58,Insurance broker,Medium,Wilkersonfort
+174,Laura Johnson,Female,59,Garment/textile technologist,Low,Hartburgh
+175,Meghan Williams,Male,49,Dietitian,Medium,West Lindseyville
+176,Amy Wood,Male,24,Race relations officer,Low,Goodmanland
+177,Jonathan Farmer,Female,54,"Engineer, water",Low,Leeton
+178,Suzanne Bailey,Male,46,"Biochemist, clinical",High,Ronnieberg
+179,Troy Garcia,Female,23,Television/film/video producer,High,Mcbrideton
+180,Caleb Mitchell,Male,30,Communications engineer,High,Elizabethview
+181,Pamela Gonzalez,Male,53,Phytotherapist,High,North Logantown
+182,Rachel Leach,Male,64,Water engineer,High,West Jennifer
+183,John Baker,Male,23,"Administrator, education",Low,East Arthurville
+184,Amanda Marks,Female,28,"Programmer, applications",Low,Lake Brandy
+185,Christine Sanchez,Female,37,Field seismologist,High,New Carlaville
+186,Andrew Andrews,Female,52,Social researcher,Medium,Lake Dalton
+187,Alexa Brown,Male,22,IT trainer,Medium,West Shelley
+188,Aaron Buck,Male,22,"Scientist, physiological",Low,New Donnamouth
+189,Nancy Solis,Female,36,Probation officer,Low,West Jesus
+190,Isaiah Thomas,Male,56,Conference centre manager,Medium,Roblesport
+191,Sean Bailey,Female,61,Musician,Medium,Reeseburgh
+192,Cassandra Holloway,Female,30,"Programme researcher, broadcasting/film/video",Medium,North Rhonda
+193,Brian Fleming,Male,44,Charity officer,Low,Downsbury
+194,Adam Gibbs,Female,61,Software engineer,Medium,New Manuel
+195,Jeremy Brown,Male,37,"Engineer, production",High,Williamsfort
+196,Tracey Roberts,Female,55,Mining engineer,Medium,Morsebury
+197,Dr. Micheal Curtis MD,Male,50,Hydrographic surveyor,High,Julieville
+198,Nicole Reyes,Female,45,"Engineer, aeronautical",Medium,Berryton
+199,Joseph Perry,Male,30,"Administrator, local government",Low,Taylorview
+200,Jack Murphy,Male,47,Probation officer,Medium,West Lisa

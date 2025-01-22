@@ -1,0 +1,101 @@
+product_id,product_name,catagory,brand,size,color,price
+1,wrong,Fruniture,Harmon Ltd,Large,Green,1615.63
+2,either,Electronics,"Schneider, Padilla and Murray",Large,Red,584.79
+3,include,Clothing,Armstrong-Baker,Small,Blue,2884.5
+4,mention,Fruniture,Burton Inc,Small,Red,4920.3
+5,must,Fruniture,Fisher-Everett,Large,Blue,2760.21
+6,court,Electronics,Johnson-Todd,Medium,Blue,820.31
+7,example,Fruniture,"Wood, Johnson and Mcgee",Large,Blue,2434.74
+8,sure,Fruniture,Young Group,Small,Blue,3422.58
+9,former,Fruniture,Cross Ltd,Large,Red,968.93
+10,area,Electronics,"Stewart, Bishop and Smith",Small,Red,4331.95
+11,image,Clothing,Russell-Green,Small,Green,4476.11
+12,film,Electronics,Baldwin Group,Large,Red,628.26
+13,age,Clothing,Duran and Sons,Medium,Blue,4962.7
+14,none,Clothing,"Burns, Ashley and Jenkins",Medium,Blue,811.88
+15,better,Fruniture,"Wilson, Brown and Davis",Small,Blue,3155.03
+16,want,Fruniture,Lowe Ltd,Large,Red,1735.62
+17,store,Electronics,Smith-James,Small,Blue,3356.83
+18,how,Clothing,"Navarro, Burgess and Sanders",Medium,Red,3996.47
+19,tree,Clothing,"Ramos, Dennis and Lopez",Medium,Blue,2244.0
+20,do,Electronics,Woods-Norton,Large,Red,1051.51
+21,rule,Clothing,"Barr, Welch and Andrews",Large,Red,4576.94
+22,education,Electronics,Stevens-Simon,Large,Green,3123.15
+23,check,Clothing,Olson-Cooper,Large,Blue,601.99
+24,health,Fruniture,Meyer-Richardson,Small,Blue,2965.38
+25,experience,Clothing,"Wilson, Mendez and Baker",Small,Blue,1499.17
+26,answer,Fruniture,Key Group,Small,Green,822.08
+27,player,Clothing,Cantrell Group,Large,Red,4882.33
+28,military,Clothing,"Dixon, Wilson and Terry",Medium,Blue,1376.17
+29,her,Clothing,Moore-Walker,Medium,Red,2712.96
+30,never,Fruniture,Fernandez-Peterson,Medium,Blue,3593.06
+31,green,Fruniture,"Williams, Gilbert and Sims",Medium,Green,664.72
+32,central,Electronics,"Young, Crawford and Hunter",Small,Blue,2317.17
+33,power,Clothing,"Schroeder, Randolph and Harrington",Small,Green,393.82
+34,her,Fruniture,Berry and Sons,Small,Red,4945.51
+35,gun,Clothing,Fernandez and Sons,Large,Green,230.11
+36,quality,Fruniture,Newman Inc,Small,Green,1508.66
+37,view,Electronics,Morris-Galvan,Small,Green,2168.84
+38,medical,Clothing,"Golden, Berg and Brown",Large,Red,1834.93
+39,good,Clothing,Ortega-Pierce,Medium,Red,878.18
+40,strong,Clothing,"Olson, Parker and Rodriguez",Small,Green,3265.99
+41,development,Fruniture,"Rodriguez, Pena and Miller",Medium,Red,3406.73
+42,debate,Fruniture,Mcconnell Ltd,Small,Blue,4407.51
+43,scientist,Fruniture,Caldwell and Sons,Small,Red,3893.81
+44,chair,Clothing,Bell-Martinez,Medium,Blue,4622.11
+45,surface,Electronics,Larson and Sons,Large,Blue,2863.69
+46,local,Clothing,Phillips LLC,Large,Green,4646.62
+47,according,Fruniture,Riddle-Allen,Large,Red,346.38
+48,pressure,Fruniture,Gomez Group,Large,Blue,1029.98
+49,gun,Clothing,Phillips and Sons,Large,Green,3633.39
+50,successful,Electronics,Jones and Sons,Large,Blue,2338.1
+51,realize,Clothing,Brown-Graves,Large,Blue,469.2
+52,clearly,Fruniture,"Kerr, Bell and Hayes",Small,Red,1037.97
+53,require,Clothing,Delacruz-Mathis,Medium,Red,1034.91
+54,black,Electronics,"Camacho, Barber and Smith",Medium,Blue,1602.39
+55,blue,Fruniture,Morris-Vincent,Small,Blue,4519.79
+56,smile,Electronics,"Smith, Anderson and Taylor",Small,Green,187.62
+57,husband,Clothing,Ramirez-Sanchez,Medium,Green,2316.69
+58,bed,Clothing,Hopkins-Richardson,Small,Red,4602.09
+59,manager,Electronics,Vazquez-Moses,Small,Blue,1747.66
+60,family,Clothing,Scott Ltd,Medium,Blue,1825.2
+61,how,Electronics,"Savage, Adams and Clark",Medium,Red,3821.23
+62,plan,Clothing,"Marshall, Gonzalez and Wallace",Medium,Blue,861.51
+63,good,Clothing,Green Inc,Large,Blue,3310.28
+64,little,Electronics,Vargas Ltd,Large,Red,4176.3
+65,task,Clothing,Hampton-Santos,Large,Blue,1900.1
+66,way,Electronics,Wolf PLC,Large,Red,4359.66
+67,arrive,Clothing,"Holmes, Scott and Thomas",Small,Red,3848.61
+68,talk,Clothing,Leon Inc,Medium,Green,1890.61
+69,week,Fruniture,"Wong, Howard and Bradley",Small,Red,1183.32
+70,strategy,Electronics,Rosario-Morrow,Large,Green,3759.92
+71,it,Electronics,Gallagher Group,Medium,Blue,3849.85
+72,cost,Clothing,"Burton, Aguilar and Young",Large,Green,562.85
+73,send,Fruniture,Ward PLC,Large,Blue,795.78
+74,up,Fruniture,"Berger, Reed and Smith",Large,Green,4687.85
+75,help,Clothing,"Hughes, Knight and Ortiz",Small,Green,4579.27
+76,health,Clothing,Munoz-Smith,Medium,Green,1802.8
+77,green,Electronics,Benson and Sons,Medium,Green,712.4
+78,group,Clothing,Mitchell-Lee,Small,Blue,933.84
+79,his,Clothing,Delacruz and Sons,Medium,Red,3649.95
+80,modern,Fruniture,Dennis-Roberson,Medium,Blue,1281.73
+81,catch,Clothing,Robinson-Walker,Medium,Blue,1036.68
+82,almost,Fruniture,Hernandez-Taylor,Small,Green,3881.54
+83,picture,Fruniture,Chan and Sons,Small,Blue,3300.2
+84,yes,Electronics,"Warner, Nelson and Kidd",Medium,Green,4413.49
+85,five,Fruniture,Fox LLC,Small,Blue,648.55
+86,skin,Clothing,"Campos, Stanton and Contreras",Medium,Blue,3798.22
+87,huge,Electronics,Bowman-Dunn,Large,Green,2960.28
+88,war,Fruniture,Perkins-Johnson,Small,Red,4985.26
+89,success,Clothing,Richards-Jones,Medium,Blue,1757.64
+90,none,Electronics,"Thomas, Hogan and Elliott",Small,Blue,1019.49
+91,although,Fruniture,Woods-Nunez,Medium,Green,3850.63
+92,million,Clothing,Figueroa LLC,Small,Blue,4485.16
+93,box,Electronics,Johnson-Lee,Medium,Green,1238.12
+94,however,Electronics,"Garcia, Rowe and Johnson",Large,Green,4868.64
+95,imagine,Fruniture,"Ward, Mendoza and Woods",Medium,Blue,3983.29
+96,student,Clothing,Beasley-Cruz,Large,Red,4082.54
+97,hear,Electronics,Rodriguez LLC,Small,Blue,1915.24
+98,side,Fruniture,Reyes-Preston,Small,Blue,432.68
+99,they,Electronics,Wilson-Jones,Large,Red,966.96
+100,bank,Electronics,Warren Inc,Medium,Red,620.11
